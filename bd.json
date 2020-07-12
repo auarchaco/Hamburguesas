@@ -4,14 +4,14 @@
     "nombre": "1 HAMBURGUESA JUMBO",
     "ingredientes": " PAN JUMBO, CARNE DE RES, HUEVO, QUESO AMARILLO, JAMON, AGUACATE, TOMATE, CEBOLLA, LECHUGA, PAPAS FRITAS, SALSA TOMATE, MAYONESA",
     "precio": 3,
-    "imagen": "https://i.ibb.co/xX0bnZj/Juego-de-puntas.jpg"
+    "imagen": "https://i.ibb.co/Jm8n92Z/Hamburguesa-Jumbo.jpg"
   },
   {
     "id": 1,
-    "nombre": "SUPER PROMO 3 HAMBURGUESA JUMBO + 1 REFRESCO DE 2 LITROS",
+    "nombre": "SUPER PROMO 3 HAMBURGUESAS JUMBO + 1 REFRESCO DE 2 LITROS",
     "ingredientes": "PAN JUMBO, CARNE DE RES, HUEVO, QUESO AMARILLO, JAMON, AGUACATE,TOMATE, CEBOLLA, LECHUGA, PAPAS FRITAS, SALSA TOMATE, MAYONESA",
     "precio": 10,
-    "imagen": "https://i.ibb.co/g970Qjc/Esmeril-de-7.jpg"
+    "imagen": "https://i.ibb.co/CPV7Y0f/3-Hamburguesas-Jumbo.jpg"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@
   },
   {
     "id": 3,
-    "nombre": "SUPER PROMO 2 HAMBURGUESA JUMBO  XXL+ 1 REFRESCO DE 2 LITROS",
+    "nombre": "SUPER PROMO 2 HAMBURGUESAS JUMBO  XXL+ 1 REFRESCO DE 2 LITROS",
     "ingredientes": "PAN JUMBO, CARNE DE RES, HUEVO, QUESO AMARILLO, JAMON, AGUACATE, TOMATE, CEBOLLA, LECHUGA, PAPAS FRITAS, SALSA TOMATE, MAYONESA",
     "precio": 15,
     "imagen": "https://i.ibb.co/S0qdcfN/taladro.jpg"
